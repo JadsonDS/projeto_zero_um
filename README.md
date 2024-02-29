@@ -17,7 +17,7 @@
   Para o desenvolvimento e manipulamos do banco de dados foi utilizado SQL e Python, a Biblioteca Pandas para limpar e preparar os dados, preparando-os para a construção do modelo de classificação. Optando pela árvore de decisão, disponível na biblioteca sklearn.
   Foi implementamos um painel interativo permitindo que o time de vendas insira os dados do cliente e receba instantaneamente a recomendação ideal.
   
- ![image](https://github.com/JadsonDS/projeto_zero_um/assets/125108476/cc731af6-34c5-459c-a186-f685b168182f)
+ ![image](https://github.com/JadsonDS/projeto_zero_um/assets/125108476/84b4a7a1-1951-4894-9398-c49ee47af2c3)
 
 # 4. Principais insights
   - O Rendimento Anual e o Valor Total para Todos os Voos, tem uma influência significativa nas probalididades de Adesão ao Programa de Fidelidade;
