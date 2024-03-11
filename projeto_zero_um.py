@@ -12,7 +12,7 @@ from sklearn import tree
 from sklearn import tree as tr
 from sklearn.tree import DecisionTreeClassifier, plot_tree
 
-#-------------------------------------Início das Funções-----------------------------------
+#-------------------------------------Início das Funções----------------------------------
 
 st.set_page_config(page_title='Projeto Zero Um', page_icon='💾', layout='wide') 
 
